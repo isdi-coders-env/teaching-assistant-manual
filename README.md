@@ -40,7 +40,7 @@
 - Llevar un control de la evolución de cada alumno durante el precurso.
 - Avisar si algún estudiante no está entregando los ejercicios y va mas atrasado
 - Sugerir mejoras sobre el proceso (nuevos vídeos o ejercicios).
-- Ocho semanas antes de que comience el bootcamp, preparar y dirigir las clases online del pre-curso. (Toda la información en el github)
+- Ocho semanas antes de que comience el bootcamp, preparar y dirigir las clases online del pre-curso. ([Toda la información en el github](https://github.com/Isdi-Coders/pre-curso))
 - Hacer llamadas/reuniones con los estudiantes si hiciera falta.
 - Revisar cada día el Trello para ir revisando los ejercicios.
 - Dirigir la presentación de los proyectos previos al curso.
