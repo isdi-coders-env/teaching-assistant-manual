@@ -30,6 +30,9 @@
 - Hacemos un esfuerzo adicional y estamos contentos de hacerlo.
 
 # Teaching Assistants
+
+Aquí detallamos como aplican estos principios al trabajo de un Teaching Assistant. Cualquier otra casuística hay que resolverla aplicando los proncipios anteriores. En caso de duda, consulta con el profesor titular 😸
+
 ## Durante el pre-curso
 
 - Eres el guía de nuestros estudiantes.
