@@ -48,7 +48,7 @@ Aquí detallamos como aplican estos principios al trabajo de un Teaching Assista
 - Revisar cada día el Trello para ir revisando los ejercicios.
 - Dirigir la presentación de los proyectos previos al curso.
   - Hacer que los estudiantes interactúen entre sí.
-  - - Pregunta cuál ha sido la parte más difícil del proyecto y que enseñen codigo.
+  - Pregunta cuál ha sido la parte más difícil del proyecto y que enseñen codigo.
 
 ## Durante el curso
 
