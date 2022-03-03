@@ -60,4 +60,4 @@ Aquí detallamos como aplican estos principios al trabajo de un Teaching Assista
 - Compartir lo más destacado (bueno o malo) durante la comida semanal del staff.
 - Diseñar grupos (lo más parejo posible) para la semana de proyectos en equipo.
 - Hacerse cargo de los Kahoot del viernes.
-- Llevar las daily’s de 9 a 9.30.
+- Llevar las daily’s de 9 a 9.30. En la medida de lo posible, tienen que hablar todos los alumnos.
